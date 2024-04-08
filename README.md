@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ### Programming Languages & Tools ⌨️
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,c,cs,py,java,opencv,sklearn,tensorflow,html,css,flask,ubuntu,blender,figma,ai,discord,linkedin,unity=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,c,cs,py,java,opencv,sklearn,tensorflow,unity,html,css,flask,ubuntu,blender,figma,ai,discord,linkedin,unity=8" />
   </a>
 </p>
 
