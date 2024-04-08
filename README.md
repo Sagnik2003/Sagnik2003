@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Sagnik2003&style=flat&abbreviated=true)
 - 👀 I’m interested in Data Driven Astronomy.    🔭☄️ and  Machine Learning 📊  
 - 🌱 I’m currently learning Machine Learning , C# for unity...
-- 💞️ I’m looking to collaborate on "Machine learning implementation in Astrophysics and Astronomy" 
+- 💞️ I’m looking to collaborate on "Machine learning implementation in Astrophysics and Astronomy"
 - 📫 How to reach me ...
 
 <!---
