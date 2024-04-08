@@ -33,12 +33,12 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 ### Pinned 📌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Gamma-Net-alpha-&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Large-Fish-Dataset&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Segmentation-on-Satillite-Image-of-Water-Bodies&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Brain-Tumor-Segmentation&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=COVID---CXR-4-data-classification&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Brain-Tumor-detection-Using-MRI-imges&theme=transparent)](https://github.com/Necromancer1009/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Gamma-Net-alpha-&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Large-Fish-Dataset&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Segmentation-on-Satillite-Image-of-Water-Bodies&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Brain-Tumor-Segmentation&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=COVID---CXR-4-data-classification&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Brain-Tumor-detection-Using-MRI-imges&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
 
 
 ### Most Used Languages 
