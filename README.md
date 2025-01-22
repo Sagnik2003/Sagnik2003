@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Deeplearning Frameworks like Tensorflow 2.0 ,Keras and Pytorch
 - 💞️ I’m looking to collaborate on "Machine learning implementation in Astrophysics and Astronomy"
 - 📫 How to reach me ?
-- Mail me on sagnikkayal@gmail.com
+- Mail me on sagnikkayal72@gmail.com
 
 <!---
 Sagnik2003/Sagnik2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
