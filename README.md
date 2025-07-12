@@ -32,15 +32,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=Sagnik2003&rank_icon=github&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
 
-### Pinned 📌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Gamma-Net-Alpha&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Large-Fish-Dataset&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Segmentation-on-Satillite-Image-of-Water-Bodies&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Brain-Tumor-Segmentation&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=COVID---CXR-4-data-classification&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Brain-Tumor-detection-Using-MRI-imges&theme=transparent)](https://github.com/Sagnik2003/github-readme-stats)
-
-
 ### Most Used Languages 
 <picture>
   <source
