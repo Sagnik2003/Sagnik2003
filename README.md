@@ -33,36 +33,6 @@
 
 ---
 
-### 🔥 Latest Projects (Recent Updates)
-<p align="center">
-  <a href="https://github.com/Sagnik2003/Parkinson-s-Disease-Detection-using-HandPD-data">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Parkinson-s-Disease-Detection-using-HandPD-data&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sagnik2003/Gamma-Net">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Gamma-Net&theme=transparent" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/Sagnik2003/Autocorrect-Autocomplete-for-typing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Autocorrect-Autocomplete-for-typing&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sagnik2003/Brain-Tumor-detection-Using-MRI-imges">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Brain-Tumor-detection-Using-MRI-imges&theme=transparent" />
-  </a>
-  
-  <br/>
-
-  <a href="https://github.com/Sagnik2003/Segmentation-on-Satillite-Image-of-Water-Bodies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Segmentation-on-Satillite-Image-of-Water-Bodies&theme=transparent" />
-  </a>
-  <a href="https://github.com/Sagnik2003/COVID---CXR-4-data-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=COVID---CXR-4-data-classification&theme=transparent" />
-  </a>
-</p>
-
----
-
 ### 🗓️ GitHub Activity Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik2003&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
