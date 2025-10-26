@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sagnik2003&style=flat&abbreviated=true" />
 </p>
 
-- 🎓 I'm a **postgraduate student** pursuing M.Tech in **Artificial Intelligence** at [**IIT Bhubaneswar**](https://www.iitbbs.ac.in/).
+- 🎓 I'm a **postgraduate student** pursuing M.Tech in **Artificial Intelligence** @ [**IIT Bhubaneswar**](https://www.iitbbs.ac.in/).
 - 👀 I’m interested in **Data Driven Astronomy** 🔭☄️ and **Machine Learning** 📊 
 - 🌱 I use Deep Learning frameworks like **Tensorflow 2**, **Keras**, and **PyTorch**.
 - 💞️ I’m looking to collaborate on "**Machine learning implementation in Astrophysics and Astronomy**" and in "**LLMs**".
