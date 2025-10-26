@@ -20,8 +20,14 @@
 ---
 
 ### 🏆 Certifications
-* [📄 **Certificate Name 1**](https-link-to-your-certificate) - *Coursera*
-* [📄 **Certificate Name 2**](https-link-to-your-certificate) - *Coursera*
+* [📄 **Mathematics for Machine Learning | Imperial COllege London**](https://coursera.org/share/e598d24fdb056122c1a4168169e72946) - *Coursera*
+* [📄 **Machine Learning | Deeplearning.AI & Stanford Online**](https://coursera.org/share/386ee3bf111c43be872e9684ba7739fd) - *Coursera*
+* [📄 **Deep Learning** | Deeplearning.AI](https://coursera.org/share/47abc8a763c61823fe11d2bbbb776093) - *Coursera*
+* [📄 **Generative Adversarial Networks (GANs) | Deeplearning.AI**]([https-link-to-your-certificate](https://coursera.org/share/940d2afe6535b987f0ea94dfc8f92dc8)) - *Coursera*
+* [📄 **Natural Language Processing | Deeplearning.AI**](https://coursera.org/share/386ee3bf111c43be872e9684ba7739fd) - *Coursera*
+* [📄 **Generative AI with Large Language Models | AWS & Deeplearning.AI**](https://coursera.org/share/36b955a38381cdd8d06236b88d4ee94c) - *Coursera*
+* [📄 **Data Driven Astronomy | University of Sydney**](https://coursera.org/share/f8655746f5b200af53e02edf55471eed) - *Coursera*
+* [📄 **AI for Everyone**](https://coursera.org/share/33e1d4b04352c2a803ba836c7725229d) - *Coursera*
 ---
 
 ### 📊 Github Stats
