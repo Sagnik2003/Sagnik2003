@@ -30,12 +30,7 @@
 * <img src="https://github.com/Sagnik2003/Sagnik2003/blob/main/Assets/Icon-512size.webp?raw=true" height="45" alt="DeepLearning.AI logo"/> [**AI for Everyone**](https://coursera.org/share/33e1d4b04352c2a803ba836c7725229d)
 
 
-
-
-
-
-
-
+---
 
 
 ### 📊 Github Stats
