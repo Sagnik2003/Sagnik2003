@@ -2,11 +2,13 @@
   <h1 align="center">Hi 👋, I’m @Sagnik2003</h1>
   <img src="https://komarev.com/ghpvc/?username=Sagnik2003&style=flat&abbreviated=true" />
 </p>
-- 🎓 I am a **postgraduate student** pursuing M.Tech in **Artificial Intelligence** at [**IIT Bhubaneswar**](https://www.iitbbs.ac.in/).
-- 👀 I’m interested in **Data Driven Astronomy** 🔭☄️ and **Machine Learning** 📊 
-- 🌱 I’m currently working with Deep Learning frameworks like **Tensorflow 2**, **Keras**, and **PyTorch**.
-- 💞️ I’m looking to collaborate on projects related to **Machine Learning in Astrophysics and Astronomy and LLMs**.
-- 📫 How to reach me: **sagnikkayal72@gmail.com**
+
+- 👀 I’m interested in Data Driven Astronomy 🔭☄️ and Machine Learning 📊 \
+- 🎓 I'm a postgraduate student persuing M>Tech in Artificial Intelligence at IIT Bhubaneswar
+- 🌱 I use Deeplearning Frameworks like Tensorflow 2 ,Keras and Pytorch
+- 💞️ I’m looking to collaborate on "Machine learning implementation in Astrophysics and Astronomy" and in "LLMs"
+- 📫 How to reach me ?
+- Mail me on sagnikkayal72@gmail.com
 ---
 
 ### 💻 Programming Languages & Tools
