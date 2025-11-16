@@ -14,7 +14,7 @@
 ### 💻 Programming Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,c,cs,py,java,opencv,sklearn,tensorflow,pytorch,unity,html,css,flask,ubuntu,blender,figma,ai,discord,linkedin&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,c,cs,py,java,opencv,sklearn,tensorflow,pytorch,unity,html,css,flask,ubuntu,git,blender,figma,ai,discord,linkedin&perline=10" />
   </a>
 </p>
 
