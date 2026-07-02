@@ -57,28 +57,22 @@
 
 ---
 
-## 📂 Recent Repositories
-<!-- Automatically displays your most recently updated repositories -->
-<p align="center">
-  <a href="https://github.com/Sagnik2003">
-    <img src="https://github-readme-recent-activity.vercel.app/api?username=Sagnik2003&theme=dracula&actions=public_repo&limit=4" alt="Sagnik's Recent Repositories" />
-  </a>
-</p>
+## 📂 Featured Projects & Focus
+
+Since external activity widgets can sometimes fail to load, here is a clean, structured view of what I am actively building:
+
+*   🤖 **GeoVQA (Group Project):** An end-to-end LLM application where I am specifically developing and optimizing the **Encoder/Backbone architecture**.
+*   🌦️ **Weather Synthesis:** Implementing Latent Diffusion Models (LDM) on the BDD100K dataset to generate realistic, high-fidelity weather conditions.
+*   🖌️ **Portfolio Apps:** Designing advanced Computer Vision implementations, including image/video enhancement, raytracing ML integration, and interactive inpainting web apps.
 
 ---
 
 ## 📊 Analytics & Insights
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sagnik2003&show_icons=true&theme=dracula&rank_icon=github&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="100%" alt="Sagnik's Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik2003&layout=compact&theme=dracula&langs_count=8" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagnik2003&show_icons=true&theme=dracula&rank_icon=github&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" alt="Sagnik's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik2003&layout=compact&theme=dracula&langs_count=8" width="48%" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik2003&theme=dracula&bg_color=282a36&hide_border=true" width="100%" alt="Activity Graph" />
