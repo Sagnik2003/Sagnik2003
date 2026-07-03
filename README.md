@@ -64,13 +64,15 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=TypeSmart&theme=dracula" width="48%" alt="Project 3" />
 </p>
 
+---
+
 ## 📊 Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sagnik2003&show_icons=true&theme=dracula&rank_icon=github&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" alt="Sagnik's Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagnik2003&layout=compact&theme=dracula&langs_count=8" width="48%" alt="Top Languages" />
+  <a href="#-analytics--insights"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sagnik2003&show_icons=true&theme=dracula&rank_icon=github&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" alt="Sagnik's Stats" /></a>
+  <a href="#-analytics--insights"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagnik2003&layout=compact&theme=dracula&langs_count=8" width="48%" alt="Top Languages" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik2003&theme=dracula&bg_color=282a36&hide_border=true" width="100%" alt="Activity Graph" />
+  <a href="#-analytics--insights"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik2003&theme=dracula&bg_color=282a36&hide_border=true" width="100%" alt="Activity Graph" /></a>
 </p>
