@@ -54,14 +54,20 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <!-- PROJECT 1: Replace USERNAME and REPO_NAME in the src link below -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=Bridge-VQA&theme=dracula" width="48%" alt="Project 1" />
+  <!-- PROJECT 1: Bridge-VQA -->
+  <a href="https://github.com/Sagnik2003/Bridge-VQA">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=Bridge-VQA&theme=dracula" width="48%" alt="Bridge-VQA" />
+  </a>
   
-  <!-- PROJECT 2: Replace USERNAME and REPO_NAME in the src link below -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=ELVE-Retinex&theme=dracula" width="48%" alt="Project 2" />
+  <!-- PROJECT 2: ELVE-Retinex -->
+  <a href="https://github.com/Sagnik2003/ELVE-Retinex">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=ELVE-Retinex&theme=dracula" width="48%" alt="ELVE-Retinex" />
+  </a>
 
-  <!-- PROJECT 3: Replace USERNAME and REPO_NAME in the src link below -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=TypeSmart&theme=dracula" width="48%" alt="Project 3" />
+  <!-- PROJECT 3: TypeSmart -->
+  <a href="https://github.com/Sagnik2003/TypeSmart">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=TypeSmart&theme=dracula" width="48%" alt="TypeSmart" />
+  </a>
 </p>
 
 ---
