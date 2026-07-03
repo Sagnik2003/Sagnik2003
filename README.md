@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=7928CA&customColorEnd=FF0080&height=220&section=header&text=Hi%20👋,%20I'm%20@Sagnik2003&fontSize=45&animation=fadeIn&fontAlignY=40" width="100%" />
+  <a href="#header"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=7928CA&customColorEnd=FF0080&height=220&section=header&text=Hi%20👋,%20I'm%20@Sagnik2003&fontSize=45&animation=fadeIn&fontAlignY=40" width="100%" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik2003&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <img src="https://komarev.com/ghpvc/?username=Sagnik2003&style=flat-square&color=ff79c6&label=Profile+Views" alt="Profile Views" />
+  <a href="#header"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagnik2003&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="#header"><img src="https://komarev.com/ghpvc/?username=Sagnik2003&style=flat-square&color=ff79c6&label=Profile+Views" alt="Profile Views" /></a>
 </p>
 
 ---
