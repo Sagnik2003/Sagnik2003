@@ -53,19 +53,22 @@
 
 ## 📂 Featured Projects
 
-<!-- To display different repositories dynamically, simply swap the "repo=..." value in the URLs below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=GeoVQA&theme=dracula" width="48%" alt="GeoVQA" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagnik2003&repo=Weather-Synthesis&theme=dracula" width="48%" alt="Weather Synthesis" />
-</p>
+  <!-- PROJECT 1: Replace USERNAME and REPO_NAME in the src link below -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=Bridge-VQA&theme=dracula" width="48%" alt="Project 1" />
+  
+  <!-- PROJECT 2: Replace USERNAME and REPO_NAME in the src link below -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=ELVE-Retinex&theme=dracula" width="48%" alt="Project 2" />
 
----
+  <!-- PROJECT 3: Replace USERNAME and REPO_NAME in the src link below -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sagnik2003&repo=TypeSmart&theme=dracula" width="48%" alt="Project 3" />
+</p>
 
 ## 📊 Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagnik2003&show_icons=true&theme=dracula&rank_icon=github&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" alt="Sagnik's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik2003&layout=compact&theme=dracula&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sagnik2003&show_icons=true&theme=dracula&rank_icon=github&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" alt="Sagnik's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagnik2003&layout=compact&theme=dracula&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
